@@ -1,2 +1,20 @@
-Name,Description
-earth-systems,TODO
+Code,Name,URI
+Glacier-area,Glacier Area,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_12013
+Glacier-mass-balance,Glacier mass balance at a point,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_12009
+Glacier-motion,Glacier motion,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_611
+Glacier-topography,Glacier topography,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_612
+Glacier-wide mass-balance,Glacier-wide mass balance,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_12010
+Ice-sheet-topography,Ice sheet topography,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_613
+Ice-thickness,Ice thickness,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_725
+Land-cover,Land cover,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_236
+Land-surface-temperature,Land surface temperature,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_389
+Land-surface-topography,Land surface topography,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_237
+Permafrost-temperature,Permafrost temperature,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_12014
+Presence-of-snow,Presence of snow,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_12007
+Snow-cover-extent,Snow cover extent,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_628
+Snow-depth,Snow depth,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_629
+Soil-moisture,Soil moisture,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_12277
+Soil-moisture-surface,Soil moisture at surface,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_528
+Soil-temperature,Soil temperature,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_596
+Soil-type,Soil type,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_246
+Wetland-extent,Wetland extent,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_243
